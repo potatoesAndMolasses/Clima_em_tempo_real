@@ -1,0 +1,9 @@
+#Ignora a chave API do projeto
+src/config.py
+
+#Ignora o ambiente virtual do projeto
+envprojet/
+
+#Ignora os arquivos temporarios do Python
+__pycache__/
+*.pyc
